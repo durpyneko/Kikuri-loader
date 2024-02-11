@@ -1,2 +1,2 @@
 # Kikuri-loader
-Shiggy loader but with Kikuri
+[Shiggy loader](https://github.com/Blisterexe/shiggy-loader) but with Kikuri
