@@ -3,3 +3,8 @@
 
 # Preview
 ![Preview](https://raw.githubusercontent.com/durpyneko/Kikuri-loader/main/preview.gif)
+
+# Import
+```css
+@import url(https://github.durpy.dev/discord-themes/kikuri-loader.css)
+```
